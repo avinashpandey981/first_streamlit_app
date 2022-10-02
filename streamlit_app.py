@@ -60,7 +60,7 @@ except URLError as e:
 #streamlit.dataframe(fruityvice_normalized)
 
 # don't run from past
-streamlit.stop()
+#streamlit.stop()
 
 
 streamlit.header('The Fruit Load List Contains:')
